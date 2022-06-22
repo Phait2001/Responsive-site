@@ -95,21 +95,18 @@ button{
     color: hsl(0, 100%, 74%) ;
 }
 
- @media screen and (max-width:14400px){
+ @media screen and (max-width:1440px){
     .main-div{
         margin: 0 auto;
-        width: 700px;
+        width: 70%;
         display: flex;
     }
 }
-
-
-@media screen and (min-width:900px){
+@media screen and (min-width:1440px){
     .main-div{
-        display: flex;
         margin: 0 auto;
-        width: 700px;
-        flex-direction: column;
+        width: 70%;
+        display: flex;
     }
 }
 
