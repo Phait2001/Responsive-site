@@ -107,7 +107,7 @@ button{
 @media screen and (max-width:950px){
     .main-div{
         margin: 0 auto;
-        width: 700px;
+        width: 80%;
         display: flex;
     }
 }
