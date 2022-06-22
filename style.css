@@ -98,14 +98,14 @@ button{
  @media screen and (max-width:1440px){
     .main-div{
         margin: 0 auto;
-        width: 70%;
+        width: 700px;
         display: flex;
     }
 }
 @media screen and (min-width:1440px){
     .main-div{
         margin: 0 auto;
-        width: 70%;
+        width: 700px;
         display: flex;
     }
 }
