@@ -104,11 +104,11 @@ button{
         display: flex;
     }
 }
-@media screen and (max-width:950px){
+ @media screen and (min-width:950px){
     .main-div{
         margin: 0 auto;
-        width: 80%;
+        width: 70%;
         display: flex;
     }
-}
+}  
 
