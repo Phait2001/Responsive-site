@@ -97,7 +97,7 @@ button{
     color: hsl(0, 100%, 74%) ;
 }
 
- @media screen and (max-width:1440px){
+ @media screen and (min-width:1440px){
     .main-div{
         margin: 0 auto;
         width: 80%;
