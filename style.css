@@ -96,19 +96,12 @@ button{
 .last-p a{
     color: hsl(0, 100%, 74%) ;
 }
-
- @media screen and (min-width:1440px){
+@media screen and (max-width:1440px){
     .main-div{
         margin: 0 auto;
-        width: 80%;
+        width: 700px;
         display: flex;
-    }
+    } 
+    
 }
- @media screen and (min-width:950px){
-    .main-div{
-        margin: 0 auto;
-        width: 70%;
-        display: flex;
-    }
-}  
 
